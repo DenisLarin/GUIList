@@ -1,9 +1,11 @@
 package ru.larin.List;
 
+import java.io.Serializable;
+
 /**
  * Created by mrden on 25.10.2016.
  */
-public class Node {
+public class Node{
     private Node nextElementLink;
     private Object data;
 
